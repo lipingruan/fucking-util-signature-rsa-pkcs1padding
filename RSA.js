@@ -1,5 +1,5 @@
 
-const util = require ( 'util' );
+const util = require ( 'fucking-util' );
 
 module.exports = class RSA extends util.Signature.RSA {
 

@@ -1,6 +1,6 @@
 {
   "name": "fucking-util-signature-rsa-pkcs1padding",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "signature object for java pkcs1 padding",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,7 @@
   },
   "author": "lipingruan",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "fucking-util": "^0.3.0"
+  }
 }
